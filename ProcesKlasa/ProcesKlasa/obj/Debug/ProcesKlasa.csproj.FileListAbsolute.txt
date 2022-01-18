@@ -1,0 +1,10 @@
+C:\Users\Ramseeys\source\repos\ProcesKlasa\ProcesKlasa\bin\Debug\ProcesKlasa.exe.config
+C:\Users\Ramseeys\source\repos\ProcesKlasa\ProcesKlasa\bin\Debug\ProcesKlasa.exe
+C:\Users\Ramseeys\source\repos\ProcesKlasa\ProcesKlasa\bin\Debug\ProcesKlasa.pdb
+C:\Users\Ramseeys\source\repos\ProcesKlasa\ProcesKlasa\obj\Debug\ProcesKlasa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ramseeys\source\repos\ProcesKlasa\ProcesKlasa\obj\Debug\ProcesKlasa.Form1.resources
+C:\Users\Ramseeys\source\repos\ProcesKlasa\ProcesKlasa\obj\Debug\ProcesKlasa.Properties.Resources.resources
+C:\Users\Ramseeys\source\repos\ProcesKlasa\ProcesKlasa\obj\Debug\ProcesKlasa.csproj.GenerateResource.cache
+C:\Users\Ramseeys\source\repos\ProcesKlasa\ProcesKlasa\obj\Debug\ProcesKlasa.csproj.CoreCompileInputs.cache
+C:\Users\Ramseeys\source\repos\ProcesKlasa\ProcesKlasa\obj\Debug\ProcesKlasa.exe
+C:\Users\Ramseeys\source\repos\ProcesKlasa\ProcesKlasa\obj\Debug\ProcesKlasa.pdb
